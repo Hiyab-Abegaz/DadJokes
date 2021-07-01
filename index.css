@@ -1,24 +1,33 @@
 h1{
-    position:relative;
-    bottom: -170px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
+  display : flex; 
+  justify-content : center;
+  align-content   : center; 
+  position: fixed;
+  top: 30%;
+  left: 52%;
+  margin-top: -50px;
+  margin-left: -100px;
+  justify-self:flex-start;
+  justify-self: flex-end ;
 }
-
-/* html {
-    background:
-    linear-gradient(
-      #fad203,
-      #ff7c80,
-      #bd8dfc
-    );
-
-} */
-
 body {
     background: linear-gradient(#fad203, #ff7c80,#bd8dfc) fixed;
+    padding:100%;
   }
 
 
+  .button{
+  display : flex; 
+  justify-content : center;
+  align-content   : center; 
+  position: fixed;
+  top: 60%;
+  left: 56%;
+  margin-top: -50px;
+  margin-left: -100px;
+  justify-self:flex-start;
+  justify-self: flex-end ;
+  border-radius: 25px;
+  width: 100px;
+  height: 50px;
+}

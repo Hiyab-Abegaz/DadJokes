@@ -1,0 +1,24 @@
+h1{
+    position:relative;
+    bottom: -170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+/* html {
+    background:
+    linear-gradient(
+      #fad203,
+      #ff7c80,
+      #bd8dfc
+    );
+
+} */
+
+body {
+    background: linear-gradient(#fad203, #ff7c80,#bd8dfc) fixed;
+  }
+
+

@@ -12,15 +12,15 @@ h1{
   justify-self: flex-end ;
 }
 .icon{
-  left
+   left:50%;
 }
 
-.button{
+.btn{
   background-color:#ff7c80;
   border-radius: 15px;
   border-color: #ff7c80;
 }
-.button:hover{
+.btn:hover{
   background-color: #dea5a4;
 }
 .container{

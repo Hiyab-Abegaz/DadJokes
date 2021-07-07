@@ -1,4 +1,4 @@
-h1{
+ h1{
   
   display : flex; 
   justify-content : center;
@@ -39,6 +39,7 @@ h1{
    position: relative;
    transform: translateX(-50%);
 }
+
 .container button{
   margin:0;
   padding:0;
@@ -55,5 +56,3 @@ body {
     background: linear-gradient(#fad203, #ff7c80,#bd8dfc) fixed;
     
   }
-
-

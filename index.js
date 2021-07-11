@@ -2,7 +2,7 @@
 //Creating event listener for button to genereate jokes
 // connects to the h1 in html
 const jokes = document.getElementById('joke')
-const button = document.querySelector('.btn')
+const button = document.querySelector('.clicker')
 button.addEventListener('click', function(event){
     //Call specific funtions I want to happen after clicking
     getDadJoke();

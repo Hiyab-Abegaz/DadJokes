@@ -34,8 +34,9 @@
    position: relative;
    transform: translateX(-50%);
 }
+/* fix btn */
 .btn{
-  border-radius: 15px;
+  border-radius: 15px white;
   
 }
 body {
